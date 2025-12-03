@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ms">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>CHEAP MARKET Store</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+    <header>
+        <h1>CHEAP MARKET</h1>
+        <p>Barang Murah • Trusted • Cepat</p>
+    </header>
+
+    <nav>
+        <a href="#produk">Produk</a>
+        <a href="#about">Tentang Kami</a>
+        <a href="#contact">Hubungi</a>
+    </nav>
+
+    <section id="hero">
+        <h2>Selamat Datang ke CHEAP MARKET</h2>
+        <p>Dapatkan barang murah dan berkualiti di sini!</p>
+    </section>
+
+    <section id="produk" class="container">
+        <h2>Produk Popular</h2>
+        <div class="grid">
+            <div class="card">
+                <img src="https://via.placeholder.com/250" alt="Produk 1">
+                <h3>Produk A</h3>
+                <p>RM10.00</p>
+            </div>
+
+            <div class="card">
+                <img src="https://via.placeholder.com/250" alt="Produk 2">
+                <h3>Produk B</h3>
+                <p>RM15.00</p>
+            </div>
+
+            <div class="card">
+                <img src="https://via.placeholder.com/250" alt="Produk 3">
+                <h3>Produk C</h3>
+                <p>RM8.00</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="about" class="container">
+        <h2>Tentang Kami</h2>
+        <p>CHEAP MARKET menyediakan barang murah, trusted dan penghantaran cepat ke seluruh Malaysia.</p>
+    </section>
+
+    <section id="contact" class="container">
+        <h2>Hubungi Kami</h2>
+        <p>WhatsApp: <a href="https://wa.me/60123456789">Klik sini</a></p>
+    </section>
+
+    <footer>
+        <p>© 2025 CHEAP MARKET Store. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
